@@ -37,15 +37,15 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-000000?style=for-the-badge&logo=Visual-studio-code&logoColor=blue)
 </br></br>
 
-<!-- ### Github Stats-</br>
+### Github Stats-</br>
 <p align="center" float="left">
   <a href="https://github.com/divyanshu29jha?tab=repositories">
   <img src="https://github-readme-stats.vercel.app/api?username=divyanshu29jha&layout=compact&show_icons=true&title_color=00FFA5&bg_color=0D1117&icon_color=00FFA5&text_color=F8F7F9&hide_border=1" height=150/>
-  </a> -->
-  <!-- <a href="https://github.com/divyanshu29jha?tab=repositories">
+  </a> 
+  <a href="https://github.com/divyanshu29jha?tab=repositories">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=divyanshu29jha&show_icons=true&locale=en&layout=compact&title_color=00FFA5&bg_color=0D1117&icon_color=00FFA5&text_color=F8F7F9&hide_border=1" height=150/>
   </a>
-</p> -->
+</p> 
 
 <br>
 <p align="center">
