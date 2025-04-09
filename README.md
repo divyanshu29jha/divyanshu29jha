@@ -5,7 +5,7 @@
 <img align="" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200" height="200"/>
 </br></br></br>
 ### Here are some ideas to get you started:</br>
-- 🔭 I’m currently more into the **Full-stack Development** and **AI**.
+- 🔭 I’m currently more into the **Full-stack Development** and **AI/ML**.
 - 🌱 I love **Solving Problems**.
 - 👯 I’m looking forward to collaborate on various **Open-Source projects**.
 - 🤔 I’m currently learning: **Agentic AI**
