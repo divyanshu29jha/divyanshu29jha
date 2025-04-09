@@ -5,10 +5,10 @@
 <img align="" src="https://media.giphy.com/media/jRf5fsn8G6YaogAWxn/giphy.gif" width="200" height="200"/>
 </br></br></br>
 ### Here are some ideas to get you started:</br>
-- 🔭 I’m currently more into the **Full-stack Development** and **DSA**.
+- 🔭 I’m currently more into the **Full-stack Development** and **AI**.
 - 🌱 I love **Solving Problems**.
 - 👯 I’m looking forward to collaborate on various **Open-Source projects**.
-- 🤔 I’m currently learning: **Machine Learning**
+- 🤔 I’m currently learning: **Agentic AI**
 - 📫 Feel free to ping me on : [linkedIn](https://www.linkedin.com/in/divyanshu-jha-530b42246/)
 - ⚡ Fun fact: **90% of the world's data was created in the last two years.**
 
